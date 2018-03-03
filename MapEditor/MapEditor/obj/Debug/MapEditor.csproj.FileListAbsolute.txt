@@ -1,0 +1,19 @@
+c:\users\bliznyuk_n\documents\visual studio 2015\Projects\MapEditor\MapEditor\bin\Debug\MapEditor.exe.config
+c:\users\bliznyuk_n\documents\visual studio 2015\Projects\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+c:\users\bliznyuk_n\documents\visual studio 2015\Projects\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+c:\users\bliznyuk_n\documents\visual studio 2015\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.csprojResolveAssemblyReference.cache
+c:\users\bliznyuk_n\documents\visual studio 2015\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.exe
+c:\users\bliznyuk_n\documents\visual studio 2015\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.pdb
+D:\Study\MapEditor\MapEditor\bin\Debug\MapEditor.exe.config
+D:\Study\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+D:\Study\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+D:\Study\MapEditor\MapEditor\obj\Debug\MapEditor.csprojResolveAssemblyReference.cache
+D:\Study\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.CoreCompileInputs.cache
+D:\Study\MapEditor\MapEditor\obj\Debug\MapEditor.exe
+D:\Study\MapEditor\MapEditor\obj\Debug\MapEditor.pdb
+E:\MapEditor\MapEditor\bin\Debug\MapEditor.exe.config
+E:\MapEditor\MapEditor\obj\Debug\MapEditor.exe
+E:\MapEditor\MapEditor\obj\Debug\MapEditor.pdb
+E:\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+E:\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+E:\MapEditor\MapEditor\obj\Debug\MapEditor.csprojResolveAssemblyReference.cache
